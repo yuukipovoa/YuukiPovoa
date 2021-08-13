@@ -34,6 +34,7 @@ You liked my profile or any of my projects and want to talk about getting in tou
  <img align="center" alt="Yuuki-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Yuuki-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//mysql/mysql-original.svg">
  <img align="center" alt="Yuuki-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+ <img align="right" alt="Yooke" src="https://media.tenor.com/images/5c82b253668dafa67a22f3354bcbe590/tenor.gif">
 </div>
   
   ##
