@@ -6,7 +6,7 @@ Conheço as liguagens Html, css, javascript, React e node js. E conheço também
 
 Gostou do meu perfil ou de algum projeto meu e quer conversar sobre entrar em contato comigo para nós trocar uma ideia.
 
-##
+.
 
 ## Hey! I'm Yuuki Póvoa
 
@@ -16,7 +16,7 @@ I know the Html, css, javascript, React, node js languages. And I also know the 
 
 You liked my profile or any of my projects and want to talk about getting in touch with me so that we can exchange an idea.
 
-##
+.
 
  <div>
   <a href="https://github.com/YuukiPovoa">
