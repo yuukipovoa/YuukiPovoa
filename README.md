@@ -1,4 +1,4 @@
-## Oi! Eu sou a Yuuki Póvoa
+## Oi! Eu sou o Yuuki Póvoa
  <div>
   <a href="https://github.com/YuukiPovoa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuukiPovoa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
