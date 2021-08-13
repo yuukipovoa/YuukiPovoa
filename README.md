@@ -11,7 +11,7 @@ Gostou do meu perfil ou de algum projeto meu e quer conversar sobre entrar em co
 ## Hey! I'm Yuuki Póvoa
 
 Hi, I'm Yuuki, technology is my day, and I'm willing to always learn new things, chasing knowledge, always carrying out new courses and projects, designing to be able to learn new fornt-and site codes and apps, always trying to grab as many opportunities as possible, I love designing for Front and after developing it in programming.
- 
+
 I know the Html, css, javascript, React, node js languages. And I also know the basics of Java, database modeling and mysql and mysql php database development.
 
 You liked my profile or any of my projects and want to talk about getting in touch with me so that we can exchange an idea.
@@ -24,7 +24,6 @@ You liked my profile or any of my projects and want to talk about getting in tou
   <img height="186em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuukipovoa&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
- 
 <div style="display: inline_block"><br>
  <img align="center" alt="Yuuki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Yuuki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,11 +33,12 @@ You liked my profile or any of my projects and want to talk about getting in tou
  <img align="center" alt="Yuuki-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="Yuuki-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//mysql/mysql-original.svg">
  <img align="center" alt="Yuuki-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- <img align="right" alt="Yooke" src="https://media.tenor.com/images/5c82b253668dafa67a22f3354bcbe590/tenor.gif">
+ <img align="right" alt="Yooke" height="30" width="40" src="http://www.deusdogif.com.br/Img/3/30/bd22733025cf7abc95c5416f52243e93.gif">
 </div>
   
-  ##
- ## 📱 Contato /  📱 Contact    
+##
+ 
+##📱 Contato | 📱 Contact    
  
 <div> 
  <a href="https://www.linkedin.com/in/yuukimolinapovoa/i" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
