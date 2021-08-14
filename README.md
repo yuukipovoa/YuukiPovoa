@@ -28,10 +28,9 @@
  <img align="right" alt="Yuuki" height="170" width="250" src="https://media.discordapp.net/attachments/710219392469958767/875949313539338310/computer-illustration.png">
 </div>
  
- ##
-  
  <br>
- <br>
+ 
+  ##
  
 <div>
  <a href="https://www.linkedin.com/in/yuukimolinapovoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
