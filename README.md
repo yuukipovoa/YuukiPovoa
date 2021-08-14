@@ -24,7 +24,7 @@
  <img align="center" alt="Yuuki-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <img align="center" alt="Yuuki-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
  <img align="center" alt="Yuuki-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img align="center" alt="Yuuki-php" height="30" width="40" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
+ <img align="center" alt="Yuuki-php" height="30" width="30" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
  <img align="right" alt="Yuuki" height="170" width="250" src="https://media.discordapp.net/attachments/710219392469958767/875949313539338310/computer-illustration.png">
 </div>
  
