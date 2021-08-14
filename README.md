@@ -6,7 +6,7 @@
 👨‍💻 I know the Html, css, javascript, React and node js languages. I also know the basics of Java, database modeling and mysql and mysql php database development.
 
 📱 You liked my profile or any of my projects and want to talk about it, get in touch with me so we can exchange an idea!!! 😉
-.
+
 
  <div>
   <a href="https://github.com/YuukiPovoa">
