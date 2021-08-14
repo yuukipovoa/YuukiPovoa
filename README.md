@@ -1,15 +1,4 @@
-## 👋 Oi! Eu sou o Yuuki Póvoa 😎 
 
-👋 Olá sou o Yuuki, a tecnologia é o meu dia a dia, e estou desposto a sempre aprender coisas novas, correndo constante atrás de conhecimentos e realizando novos curso e projetos, tento agarrar o maximo de orportunidades possiveis.
-
-👨‍🎓 Conhecimentos profissional programação front and e back and, um basico de criação de jogos, designer, concerto de computadores e celulares, musico e produtor.
-
-👨‍💻 Conheço as liguagens Html, css, javascript, React e node js. Conheço também o basico de Java, modelagem de banco de dados e desenvolvimeto de banco de dados mysql e mysql php.
-
-📱 Gostou do meu perfil ou de algum projeto meu e quer conversar sobre, entrar em contato comigo para nós trocar uma ideia!!! 😉
-
-.
- 
 ## 👋 Hi! I'm Yuuki Póvoa 😎
 
 👋 Hi, I'm Yuuki, technology is my daily life, and I'm willing to always learn new things, constantly chasing knowledge and carrying out new courses and projects, I try to grab as many opportunities as possible.
