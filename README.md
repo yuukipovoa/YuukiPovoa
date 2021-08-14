@@ -38,7 +38,7 @@
   
 ##
  
- 📱 Contato | 📱 Contact
+ **📱 Contato 💻 | 📱 Contact 💻**
  
 
  
