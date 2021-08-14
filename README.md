@@ -39,6 +39,7 @@ You liked my profile or any of my projects and want to talk about getting in tou
 ##
  
  📱 Contato | 📱 Contact
+ 
 .
  
 <div> 
