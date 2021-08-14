@@ -8,7 +8,7 @@ Gostou do meu perfil ou de algum projeto meu e quer conversar sobre entrar em co
 
 .
 
-## Hey! I'm Yuuki Póvoahh
+## Hey! I'm Yuuki Póvoa
 
 Hi, I'm Yuuki, technology is my day, and I'm willing to always learn new things, chasing knowledge, always carrying out new courses and projects, designing to be able to learn new fornt-and site codes and apps, always trying to grab as many opportunities as possible, I love designing for Front and after developing it in programming.
 
@@ -20,8 +20,8 @@ You liked my profile or any of my projects and want to talk about getting in tou
 
  <div>
   <a href="https://github.com/YuukiPovoa">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=yuukipovoa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuukipovoa&layout=compact&langs_count=7&theme=dark"/>
+  <img height="219em" src="https://github-readme-stats.vercel.app/api?username=yuukipovoa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="219em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuukipovoa&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
 <div style="display: inline_block"><br>
