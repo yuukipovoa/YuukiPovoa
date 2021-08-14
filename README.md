@@ -1,6 +1,6 @@
 * * *
 
-<img src="https://media.discordapp.net/attachments/710219392469958767/876165790464876544/Yooke.png?width=960&height=193" width="100%">
+<img src="https://media.discordapp.net/attachments/710219392469958767/876236273214431282/Design_sem_nome-1.png?width=960&height=193" width="100%">
 
  * * *
 
