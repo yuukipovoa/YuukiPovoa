@@ -38,7 +38,7 @@ You liked my profile or any of my projects and want to talk about getting in tou
   
 ##
  
-##📱 Contato | 📱 Contact    
+## 📱 Contato | 📱 Contact    
  
 <div> 
  <a href="https://www.linkedin.com/in/yuukimolinapovoa/i" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
