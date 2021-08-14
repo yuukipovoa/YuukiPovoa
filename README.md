@@ -1,9 +1,9 @@
-<div>
- <img align="right" alt="Yuuki"  src="https://media.discordapp.net/attachments/710219392469958767/876165790464876544/Yooke.png?width=960&height=193">
- </div>
- 
 
-<br>😎 Hi I'm Yuuki, technology is my daily life, and I'm willing to always learn new things, constantly chasing knowledge and carrying out new courses and projects, I try to grab as many opportunities as possible!!!
+<img align="right" alt="Yuuki"  src="https://media.discordapp.net/attachments/710219392469958767/876165790464876544/Yooke.png?width=960&height=193">
+
+ * * *
+
+😎 Hi I'm Yuuki, technology is my daily life, and I'm willing to always learn new things, constantly chasing knowledge and carrying out new courses and projects, I try to grab as many opportunities as possible!!!
 
 👨‍💻 I know the Html, css, javascript, React and node js languages. I also know the basics of Java, database modeling and mysql and mysql php database development.
 
