@@ -1,6 +1,6 @@
 ## 👋 Oi! Eu sou o Yuki Póvoa 😎 
 
-👋 Olá sou o Yuki, a tecnologia é o meu dia a dia, e estou desposto a sempre aprender coisas novas, correndo constante atrás de conhecimentos e realizando novos curso e projetos, tento agarrar o maximo de orportunidades possiveis.
+👋 Olá sou o Yuuki, a tecnologia é o meu dia a dia, e estou desposto a sempre aprender coisas novas, correndo constante atrás de conhecimentos e realizando novos curso e projetos, tento agarrar o maximo de orportunidades possiveis.
 
 👨‍🎓 Conhecimentos profissional programação front and e back and, um basico de criação de jogos, designer, concerto de computadores e celulares, musico e produtor.
 
@@ -12,7 +12,7 @@
  
 ## 👋 Hi! I'm Yuki Póvoa 😎
 
-👋 Hi, I'm Yuki, technology is my daily life, and I'm willing to always learn new things, constantly chasing knowledge and carrying out new courses and projects, I try to grab as many opportunities as possible.
+👋 Hi, I'm Yuuki, technology is my daily life, and I'm willing to always learn new things, constantly chasing knowledge and carrying out new courses and projects, I try to grab as many opportunities as possible.
 
 👨‍🎓 Professional knowledge of front and back and programming, basic game creation, designer, computer and cell phone concert, musician and producer.
 
