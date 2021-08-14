@@ -1,7 +1,7 @@
 
 ## 👋 Hi! I'm Yuuki 😎
 
-👋 Hi, I'm Yuuki, technology is my daily life, and I'm willing to always learn new things, constantly chasing knowledge and carrying out new courses and projects, I try to grab as many opportunities as possible.
+👦 Hi, I'm Yuuki, technology is my daily life, and I'm willing to always learn new things, constantly chasing knowledge and carrying out new courses and projects, I try to grab as many opportunities as possible.
 
 👨‍💻 I know the Html, css, javascript, React and node js languages. I also know the basics of Java, database modeling and mysql and mysql php database development.
 
