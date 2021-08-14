@@ -1,4 +1,4 @@
-## 👋 Oi! Eu sou o Yuki Póvoa 😎 
+## 👋 Oi! Eu sou o Yuuki Póvoa 😎 
 
 👋 Olá sou o Yuuki, a tecnologia é o meu dia a dia, e estou desposto a sempre aprender coisas novas, correndo constante atrás de conhecimentos e realizando novos curso e projetos, tento agarrar o maximo de orportunidades possiveis.
 
@@ -10,7 +10,7 @@
 
 .
  
-## 👋 Hi! I'm Yuki Póvoa 😎
+## 👋 Hi! I'm Yuuki Póvoa 😎
 
 👋 Hi, I'm Yuuki, technology is my daily life, and I'm willing to always learn new things, constantly chasing knowledge and carrying out new courses and projects, I try to grab as many opportunities as possible.
 
