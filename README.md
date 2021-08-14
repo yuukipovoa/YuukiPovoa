@@ -1,6 +1,6 @@
 * * *
 
-<img src="https://media.discordapp.net/attachments/710219392469958767/876239257025544234/Design_sem_nome2.png?width=960&height=193" width="100%">
+<img src="https://media.discordapp.net/attachments/710219392469958767/876240269035597855/Design_sem_nome3.png?width=960&height=193" width="100%">
 
  * * *
 
