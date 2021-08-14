@@ -27,14 +27,12 @@
  <img align="center" alt="Yuuki-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
  <img align="right" alt="Yuuki" height="170" width="250" src="https://media.discordapp.net/attachments/710219392469958767/875949313539338310/computer-illustration.png">
 </div>
+ 
+ ##
   
-##
+📱 Contato
  
- **📱 Contact**
- 
-
- 
-<div> 
+<div>
  <a href="https://www.linkedin.com/in/yuukimolinapovoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/yookepovoa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contato@yuukimolinapovoa33"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
