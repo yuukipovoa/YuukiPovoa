@@ -3,8 +3,6 @@
 
 👋 Hi, I'm Yuuki, technology is my daily life, and I'm willing to always learn new things, constantly chasing knowledge and carrying out new courses and projects, I try to grab as many opportunities as possible.
 
-👨‍🎓 Professional knowledge of front and back and programming, basic game creation, designer, computer and cell phone concert, musician and producer.
-
 👨‍💻 I know the Html, css, javascript, React and node js languages. I also know the basics of Java, database modeling and mysql and mysql php database development.
 
 📱 You liked my profile or any of my projects and want to talk about it, get in touch with me so we can exchange an idea!!! 😉
