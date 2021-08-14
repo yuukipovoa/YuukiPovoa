@@ -1,21 +1,24 @@
-## 👋 Oi! Eu sou o Yuuki Póvoa 😎 
+## 👋 Oi! Eu sou o Yuki Póvoa 😎 
 
-👋 Olá sou o Yuuki, a tecnologia é o meu dia dia, e estou desposto a sempre aprender coisas novas, correndo atrás de conhecimento, realizando sempre novos curso e projetos, projetando para poder aprender com acertos e erros novos codigos de fornt-and para site e apps, sempre tentando agarrar o maximo de orportunidades possiveis, adoro fazer designer para o Front and e após desenvolve-lo na programação. 
- 
-👨‍💻 Conheço as liguagens Html, css, javascript, React e node js. E conheço também o basico de Java, modelagem de banco de dados e desenvolvimeto de banco de dados mysql e mysql php. 
+👋 Olá sou o Yuki, a tecnologia é o meu dia a dia, e estou desposto a sempre aprender coisas novas, correndo constante atrás de conhecimentos e realizando novos curso e projetos, tento agarrar o maximo de orportunidades possiveis.
 
-📱 Gostou do meu perfil ou de algum projeto meu e quer conversar sobre entrar em contato comigo para nós trocar uma ideia.
+👨‍🎓 Conhecimentos profissional programação front and e back and, um basico de criação de jogos, designer, concerto de computadores e celulares, musico e produtor.
+
+👨‍💻 Conheço as liguagens Html, css, javascript, React e node js. Conheço também o basico de Java, modelagem de banco de dados e desenvolvimeto de banco de dados mysql e mysql php.
+
+📱 Gostou do meu perfil ou de algum projeto meu e quer conversar sobre, entrar em contato comigo para nós trocar uma ideia!!! 😉
 
 .
  
-## 👋 Hey! I'm Yuuki Póvoa 😎
+## 👋 Hi! I'm Yuki Póvoa 😎
 
-👋 Hi, I'm Yuuki, technology is my day, and I'm willing to always learn new things, chasing knowledge, always carrying out new courses and projects, designing to be able to learn new fornt-and site codes and apps, always trying to grab as many opportunities as possible, I love designing for Front and after developing it in programming.
+👋 Hi, I'm Yuki, technology is my daily life, and I'm willing to always learn new things, constantly chasing knowledge and carrying out new courses and projects, I try to grab as many opportunities as possible.
 
-👨‍💻 I know the Html, css, javascript, React, node js languages. And I also know the basics of Java, database modeling and mysql and mysql php database development.
+👨‍🎓 Professional knowledge of front and back and programming, basic game creation, designer, computer and cell phone concert, musician and producer.
 
-📱 You liked my profile or any of my projects and want to talk about getting in touch with me so that we can exchange an idea.
+👨‍💻 I know the Html, css, javascript, React and node js languages. I also know the basics of Java, database modeling and mysql and mysql php database development.
 
+📱 You liked my profile or any of my projects and want to talk about it, get in touch with me so we can exchange an idea!!! 😉
 .
 
  <div>
