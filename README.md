@@ -29,7 +29,7 @@
  <img align="center" alt="Yuuki-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
  <img align="center" alt="Yuuki-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  <img align="center" alt="Yuuki-php" height="30" width="30" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
- <img align="right" alt="Yuuki" height="170" width="250" src="https://media.discordapp.net/attachments/710219392469958767/875949313539338310/computer-illustration.png">
+ <img align="right" alt="Yuuki" height="170" width="250" src="https://media.discordapp.net/attachments/710219392469958767/876262879207239700/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f373130323139333932.png">
 </div>
  
  <br>
@@ -39,10 +39,10 @@
  <br>
  
 <div>
- <a href="https://www.linkedin.com/in/yuukimolinapovoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/yookepovoa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:yuukimolinapovoa33@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
- <a href="hhttps://media.discordapp.net/attachments/710219392469958767/876262879207239700/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f373130323139333932.png" target="_blank"></a> 
-</div>
+ <a href = "mailto:yuukimolinapovoa33@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
+  <a href="https://www.instagram.com/yookepovoa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/6MwHcKWJag" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+ <a href="https://www.linkedin.com/in/yuukimolinapovoa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ </div>
 
  * * *
