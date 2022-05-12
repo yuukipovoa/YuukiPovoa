@@ -1,19 +1,14 @@
 * * *
 
-<img src="https://media.discordapp.net/attachments/710219392469958767/876240269035597855/Design_sem_nome3.png?width=960&height=193" width="100%">
+<img src="https://media.discordapp.net/attachments/899424746104569857/974317354693587005/Yooke.png?width=1203&height=242" width="100%">
 
  <div style="display: inline_block">
  <img align="center" alt="Yuuki-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Yuuki-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Yuuki-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Yuuki-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- <img align="center" alt="Yuuki-node-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
- <img align="center" alt="Yuuki-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+ <img align="center" alt="Yuuki-python" height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
  <img align="center" alt="Yuuki-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//mysql/mysql-original.svg">
- <img align="center" alt="Yuuki-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
- <img align="center" alt="Yuuki-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
- <img align="center" alt="Yuuki-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <img align="center" alt="Yuuki-php" height="30" width="30" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
 </div>   
  
  * * * 
