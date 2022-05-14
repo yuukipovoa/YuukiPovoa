@@ -1,6 +1,6 @@
 * * *
 
-<img src="https://media.discordapp.net/attachments/899424746104569857/974328419972169758/Yooke.png" width="100%">
+<img src="https://media.discordapp.net/attachments/899424746104569857/974858834566869023/Yooke.gif" width="100%">
  
  * * * 
  
