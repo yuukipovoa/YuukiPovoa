@@ -22,7 +22,6 @@
 
 📱 If you liked my profile contact me now, and let's connect
 
-
  * * * 
 
 <BR>
