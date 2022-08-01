@@ -4,12 +4,23 @@
  
  * * * 
  
-👋 **𝐊𝐍𝐎𝐖 𝐀 𝐋𝐈𝐓𝐓𝐋𝐄 𝐌𝐎𝐑𝐄 𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 𝐀𝐍𝐃 𝐌𝐘 𝐏𝐑𝐎𝐅𝐈𝐋𝐄**
+👋 Conheça um pouco sobre mim
+
+🎧 Olá sou Yuuki, tenho 19 anos, adoro estudar musica e tecnologia, tento sempre me dedica nos meus estudos e aprender coisas novas, para conseguir aplicar nos meus projetos!!"
+
+💻 Adoro programar na linguagens HTML, CSS, Javacript, React, Python e MySQL. 
+
+📱 Se você gostou do meu perfil entre em contato agora, e vamos nos conectar 
 
 
-😎 𝑯𝒊 𝑰'𝒎 𝒀𝒖𝒖𝒌𝒊, 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝒊𝒔 𝒎𝒚 𝒅𝒂𝒊𝒍𝒚 𝒍𝒊𝒇𝒆, 𝒂𝒏𝒅 𝑰'𝒎 𝒘𝒊𝒍𝒍𝒊𝒏𝒈 𝒕𝒐 𝒂𝒍𝒘𝒂𝒚𝒔 𝒍𝒆𝒂𝒓𝒏 𝒏𝒆𝒘 𝒕𝒉𝒊𝒏𝒈𝒔, 𝒄𝒐𝒏𝒔𝒕𝒂𝒏𝒕𝒍𝒚 𝒄𝒉𝒂𝒔𝒊𝒏𝒈 𝒌𝒏𝒐𝒘𝒍𝒆𝒅𝒈𝒆 𝒂𝒏𝒅 𝒄𝒂𝒓𝒓𝒚𝒊𝒏𝒈 𝒐𝒖𝒕 𝒏𝒆𝒘 𝒄𝒐𝒖𝒓𝒔𝒆𝒔 𝒂𝒏𝒅 𝒑𝒓𝒐𝒋𝒆𝒄𝒕𝒔, 𝑰 𝒕𝒓𝒚 𝒕𝒐 𝒈𝒓𝒂𝒃 𝒂𝒔 𝒎𝒂𝒏𝒚 𝒐𝒑𝒑𝒐𝒓𝒕𝒖𝒏𝒊𝒕𝒊𝒆𝒔 𝒂𝒔 𝒑𝒐𝒔𝒔𝒊𝒃𝒍𝒆!!!
 
-👨‍💻 𝑰 𝒍𝒐𝒗𝒆 𝒑𝒓𝒐𝒈𝒓𝒂𝒎𝒎𝒊𝒏𝒈 𝒕𝒉𝒆 𝒍𝒂𝒏𝒈𝒖𝒂𝒈𝒆𝒔 𝑰 𝒌𝒏𝒐𝒘 𝒂𝒓𝒆 𝒉𝒕𝒎𝒍, 𝒄𝒔𝒔, 𝒋𝒂𝒗𝒂𝒔𝒄𝒓𝒊𝒑𝒕, 𝒓𝒆𝒂𝒄𝒕, 𝒑𝒚𝒕𝒉𝒐𝒏 𝒂𝒏𝒅 𝑴𝒚𝑺𝑸𝑳, 𝑰 𝒍𝒐𝒗𝒆 𝒘𝒐𝒓𝒌𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒂𝒍𝒍 𝒗𝒊𝒔𝒖𝒂𝒍 𝒂𝒏𝒅 𝒅𝒆𝒔𝒊𝒈𝒏𝒆𝒓, 𝒂𝒏𝒅 𝒊𝒇 𝒚𝒐𝒖 𝒍𝒊𝒌𝒆𝒅 𝒕𝒉𝒆 𝒑𝒓𝒐𝒇𝒊𝒍𝒆 𝒈𝒆𝒕 𝒊𝒏 𝒕𝒐𝒖𝒄𝒉 𝒏𝒐𝒘, 𝒂𝒏𝒅 𝒍𝒆𝒕'𝒔 𝒄𝒐𝒏𝒏𝒆𝒄𝒕.
+👋 Know a little about me
+
+🎧 Hello, I'm Yuuki, I'm 19 years old, I love studying music and technology, I always try to dedicate myself to my studies and learn new things, to be able to apply it in my projects!!"
+
+💻 I love programming in HTML, CSS, Javacript, React, Python and MySQL.
+
+📱 If you liked my profile contact me now, and let's connect
 
 <BR>
 
