@@ -12,7 +12,7 @@
 
 📱 Se você gostou do meu perfil entre em contato agora, e vamos nos conectar 
 
-
+ * * * 
 
 👋 Know a little about me
 
@@ -21,6 +21,9 @@
 💻 I love programming in HTML, CSS, Javacript, React, Python and MySQL.
 
 📱 If you liked my profile contact me now, and let's connect
+
+
+ * * * 
 
 <BR>
 
