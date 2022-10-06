@@ -3,16 +3,6 @@
 <img src="https://media.discordapp.net/attachments/899424746104569857/974858834566869023/Yooke.gif" width="100%">
  
  * * * 
- 
-👋 Conheça um pouco sobre mim
-
-🎧 Olá sou Yuuki, tenho 19 anos, adoro estudar musica e tecnologia, tento sempre me dedica nos meus estudos e aprender coisas novas, para conseguir aplicar nos meus projetos!!"
-
-💻 Adoro programar na linguagens HTML, CSS, Javacript, React, Python e MySQL. 
-
-📱 Se você gostou do meu perfil entre em contato agora, e vamos nos conectar 
-
- * * * 
 
 👋 Know a little about me
 
