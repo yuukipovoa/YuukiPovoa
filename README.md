@@ -6,8 +6,6 @@
 
 🎧 Hello, I'm Yuuki, I'm 19 years old, I love studying music and technology, I always try to dedicate myself to my studies and learn new things, to be able to apply it in my projects!!"
 
-💻 I love programming in HTML, CSS, Javacript, React, Python and MySQL.
-
 📱 If you liked my profile contact me now, and let's connect
 
  * * * 
