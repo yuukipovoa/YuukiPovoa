@@ -1,6 +1,6 @@
 * * *
 
-<img src="https://media.discordapp.net/attachments/710219392469958767/1080678648257986611/banner_linkedin.png" width="100%">
+<img src="https://media.licdn.com/dms/image/D4D16AQGz_oWVW59NNQ/profile-displaybackgroundimage-shrink_350_1400/0/1678505591269?e=1683763200&v=beta&t=WyHSK-wDp4wc1dsrzE659EBM9p_1tjVcoOTIXFLbUs8" width="100%">
  
  * * * 
 
