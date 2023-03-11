@@ -1,6 +1,6 @@
 * * *
 
-<img src="https://media.licdn.com/dms/image/D4D16AQGz_oWVW59NNQ/profile-displaybackgroundimage-shrink_350_1400/0/1678505591269?e=1683763200&v=beta&t=WyHSK-wDp4wc1dsrzE659EBM9p_1tjVcoOTIXFLbUs8" width="100%">
+<img src="https://media.licdn.com/dms/image/D4D16AQEvVBVwdKGfSA/profile-displaybackgroundimage-shrink_350_1400/0/1678505782507?e=1683763200&v=beta&t=kcwAZYPE7qrJZqqWmQltphR3dL0pNI0WdwznUKIg7ww" width="100%">
  
  * * * 
 
