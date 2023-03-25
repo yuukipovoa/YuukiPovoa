@@ -6,6 +6,8 @@
 
 🎧 Hello, I'm Yuuki, I'm 20 years old, I love studying music and technology, I always try to dedicate myself to my studies and learn new things, to be able to apply it in my projects!!"
 
+🚀 Always looking to go to the next level!
+
 📱 If you liked my profile contact me now, and let's connect
 
  * * * 
