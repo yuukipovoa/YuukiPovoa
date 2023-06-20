@@ -1,6 +1,6 @@
 * * *
 
-<img src="[https://cdn.discordapp.com/attachments/710219392469958767/1080678648257986611/banner_linkedin.png](https://media.licdn.com/dms/image/D4D16AQEm5Yek55vrxQ/profile-displaybackgroundimage-shrink_350_1400/0/1684359238955?e=1692835200&v=beta&t=k00TgUUfVb8yPed4C2fCF95l6OFh2bt1FTvDqyLZytI)" width="100%">
+<img src="https://media.licdn.com/dms/image/D4D16AQEm5Yek55vrxQ/profile-displaybackgroundimage-shrink_350_1400/0/1684359238955?e=1692835200&v=beta&t=k00TgUUfVb8yPed4C2fCF95l6OFh2bt1FTvDqyLZytI" width="100%">
  
  * * * 
 
