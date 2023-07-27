@@ -21,7 +21,7 @@
 <a href="https://www.instagram.com/yuukip_tech/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> </a>
 <a href = "mailto:yuukimolinapovoa33@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>        <a href = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"> </a>
 <a href = "https://discord.gg/gcXxZraw6a"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"> </a>
-<a href = "https://yuukipovoa.github.io/infinity.yuuki/"><img src="https://media.discordapp.net/attachments/710219392469958767/1131744849394159846/Portfolio-PhotoRoom.png-PhotoRoom.png?width=147&height=35"> </a>
+<a href = "https://yuukipovoa.github.io/infinity.yuuki/"><img src="https://cdn.discordapp.com/attachments/710219392469958767/1134127870785105980/Portfolio.png"> </a>
 
  
  * * *
