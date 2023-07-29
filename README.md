@@ -19,7 +19,7 @@
 <a href = "https://www.youtube.com/watch?v=UoSt01mupLk"><img src="https://media.discordapp.net/attachments/710219392469958767/1134221951905316885/5.png"> </a>
 <a href="https://www.instagram.com/yuukip_tech/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1134221951263571968/7.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/yuukipovoa/" target="_blank"> <img src="https://media.discordapp.net/attachments/710219392469958767/1134221951565582346/6.png" target="_blank"> </a>
-<a href = "mailto:yuukimolinapovoa33@gmail.com"> <img src="https://media.discordapp.net/attachments/710219392469958767/1134645731903422474/Copia_de_Portfolio.png?width=138&height=36" target="_blank"> </a>        <a href = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"><img src="https://media.discordapp.net/attachments/710219392469958767/1134221952672874557/3.png" target="_blank"> </a>
+<a href = "mailto:yuukimolinapovoa33@gmail.com"> <img src="https://media.discordapp.net/attachments/710219392469958767/1134646669137428600/Copia_de_Portfolio.png?width=131&height=36" target="_blank"> </a>        <a href = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"><img src="https://media.discordapp.net/attachments/710219392469958767/1134221952672874557/3.png" target="_blank"> </a>
 <a href = "https://discord.gg/gcXxZraw6a"><img src="https://media.discordapp.net/attachments/710219392469958767/1134221952672874557/3.png" target="_blank"> </a>
 <a href = "https://yuukipovoa.github.io/infinity.yuuki/"><img src="https://media.discordapp.net/attachments/710219392469958767/1134221953310412953/1.png"> </a>
 
