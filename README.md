@@ -3,13 +3,15 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGqiTKITeT61g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724510456387?e=1731542400&v=beta&t=-H2nHORNE0mhQt3M5SAuEfUnUyHaqg_Lalurgj9PQRc" width="100%">
  
  * * * 
+🎧 Hi! I'm Yuuki, 21 years old, and I'm an IT technician with extensive experience in programming, data analysis, administration, and photo and video editing. I have a strong passion for building and repairing computers, laptops, and smartphones, which has become both a hobby and a specialization. Additionally, I work as a music teacher, sharing knowledge in a practical and accessible way.
 
-🎧 Hello, my name is Yuuki, I'm 20 years old, I love studying music, technology in general, design, photo and video editing, I always try to dedicate myself to my studies and learn new things, so I can apply them to my projects!!
+Currently, I'm developing a project to teach IT and music to young people, adults, and seniors, helping them explore the world of technology or music. My main focus is on system automation, robotics, and IT support, always seeking to learn something new and apply that knowledge in my daily life and future challenges.
 
-📱 If you liked my profile contact me now, and let's connect
+My skills are frequently applied in volunteer work, where I use my knowledge to help those in need. Volunteering is something I love, and I strongly believe in the transformative power of education.
 
+If you're looking for someone dedicated and skilled in these areas, I'd be happy to network and exchange ideas! Liked my profile? Reach out and let’s connect! 
 
-🚀 Always looking to go to the next level!
+Always seeking new challenges and aiming for the next level! 🚀
 
  * * * 
 
