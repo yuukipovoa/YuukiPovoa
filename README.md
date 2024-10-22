@@ -19,10 +19,10 @@ If you're looking for someone dedicated and skilled in these areas, I'd be happy
 
 **📱 𝐂𝐎𝐍𝐓𝐀𝐂𝐓**  
 
-<a href = "https://yuukipovoa.github.io/infinity.yuuki/"><img src="https://media.discordapp.net/attachments/710219392469958767/1283255898331942952/1.png?ex=66e254af&is=66e1032f&hm=0a78638a3240abfb33d326e08e2a4b8b0faf4910fbeb4391920ac25170d25185&=&format=webp&quality=lossless"> </a>
-<a href = "https://www.linkedin.com/in/yuukipovoa/" target="_blank"> <img src="https://media.discordapp.net/attachments/710219392469958767/1283255899015745586/3.png?ex=66e254b0&is=66e10330&hm=edbcc0d55e4b68427b9bf6479e59b9fb03ce78bb8eefdfa1be9ec4a99bd4bb4e&=&format=webp&quality=lossless"> </a>
-<a href = "https://www.instagram.com/yuukip_tech/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1283255899326251089/4.png?ex=66ed8970&is=66ec37f0&hm=46af9d21a4076a8819c76995e7cddd229e09eea68784146f35c1ae92e76f5f82&=&format=webp&quality=lossless"></a>
-<a href = "mailto:yuukimolinapovoa33@gmail.com"> <img src="https://media.discordapp.net/attachments/710219392469958767/1283255898629865503/2.png?ex=66e254af&is=66e1032f&hm=c5eae421481a430f6ab811ae5d141785a5c0480712b8863b901a8b07139aeec0&=&format=webp&quality=lossless"> </a>
+<a href = "https://yuukipovoa.github.io/infinity.yuuki/"><img src="https://media.discordapp.net/attachments/710219392469958767/1283255898331942952/1.png?ex=6717b96f&is=671667ef&hm=7e7d3e4809bd54eb150ada2b4762720c13fe644b8f27a30257978f77e334ebfc&=&format=webp&quality=lossless"> </a>
+<a href = "https://www.linkedin.com/in/yuukipovoa/" target="_blank"> <img src="https://media.discordapp.net/attachments/710219392469958767/1283255899015745586/3.png?ex=6717b970&is=671667f0&hm=799b4428f119bfce0599a81c5fcc4a4c55907a36f3287b309f0ce9301f1bfd0c&=&format=webp&quality=lossless"> </a>
+<a href = "https://www.instagram.com/yuukip_tech/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1283255899326251089/4.png?ex=6717b970&is=671667f0&hm=84ba233527e3626c87c56468b00361e7ee2479199629388f7693565b3f87c80c&=&format=webp&quality=lossless"></a>
+<a href = "mailto:yuukimolinapovoa33@gmail.com"> <img src="https://media.discordapp.net/attachments/710219392469958767/1283255898629865503/2.png?ex=6717b96f&is=671667ef&hm=3c1e9ddae1645ef05e42fbb8ffec6afdaac12c85be4b85456e82a8eee2798a36&=&format=webp&quality=lossless"> </a>
 
 
         
