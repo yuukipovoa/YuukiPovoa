@@ -1,6 +1,6 @@
 * * *
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGqiTKITeT61g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724510456387?e=1731542400&v=beta&t=-H2nHORNE0mhQt3M5SAuEfUnUyHaqg_Lalurgj9PQRc" width="100%">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFeNEWo6TxWNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728615351092?e=1735171200&v=beta&t=F_hYA68maqDle1uGi90waEwVv4l4sCjx2kwsvbZ6Plg" width="100%">
  
  * * * 
 🎧 Hi! I'm Yuuki, 21 years old, and I'm an IT technician with extensive experience in programming, data analysis, administration, and photo and video editing. I have a strong passion for building and repairing computers, laptops, and smartphones, which has become both a hobby and a specialization. Additionally, I work as a music teacher, sharing my knowledge in a practical and accessible way.
