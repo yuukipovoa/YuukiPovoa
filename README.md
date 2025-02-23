@@ -3,7 +3,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQFeNEWo6TxWNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728615351092?e=1741219200&v=beta&t=DZHUarDCgnTQEZRczdkMY8yx_iclaIHRjWxF5PM0pcA" width="100%">
  
  * * * 
-🎧 Hi! I'm Yuuki, 21 years old, and I'm an IT technician with extensive experience in programming, data analysis, administration, and photo and video editing. I have a strong passion for building and repairing computers, laptops, and smartphones, which has become both a hobby and a specialization. Additionally, I work as a music teacher, sharing my knowledge in a practical and accessible way.
+🎧 Hi! I'm Yuuki, 22 years old, and I'm an IT technician with extensive experience in programming, data analysis, administration, and photo and video editing. I have a strong passion for building and repairing computers, laptops, and smartphones, which has become both a hobby and a specialization. Additionally, I work as a music teacher, sharing my knowledge in a practical and accessible way.
 
 Currently, I'm developing a project to teach IT and music to young people, adults, and seniors, helping them explore the world of technology or music. My main focus is on system automation, robotics, and IT support, always seeking to learn something new and apply that knowledge in my daily life and future challenges.
 
