@@ -24,7 +24,7 @@ If you're looking for someone dedicated and skilled in these areas, I'd be happy
 <a href = "https://www.instagram.com/yuukip_tech/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519217705080/4.png?ex=67f59ab8&is=67f44938&hm=2a65b6f9276314f456dbaac7bfd338630d75b53ec42e51e0d1f47f3f25499894&=&format=webp&quality=lossless&width=221&height=55"></a>
 <a href = "mailto:yuukimolinapovoa33@gmail.com"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922520186720388/2.png?ex=67f59ab8&is=67f44938&hm=9a946a57a978b55a9ca755531b68e5d601353038c39f37e92e6b54b31c497a51&=&format=webp&quality=lossless&width=221&height=55"></a>
 <a href = "https://www.infinityforalls.com.br"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922519482073108/5.png?ex=67f59ab8&is=67f44938&hm=202b856202563e79146f64a76c7529f6c9a66db38145fc859f3f7965dfbbb982&=&format=webp&quality=lossless&width=221&height=55"></a>
-<a href = "https://www.infinityforalls.com.br"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922519691792496/6.png?ex=67f59ab8&is=67f44938&hm=efeaded48d21aded191c86884cd90390d29934488ab07bb7437b4e399d108106&=&format=webp&quality=lossless&width=221&height=55"></a>
+<a href = "https://media.discordapp.net/attachments/710219392469958767/1358922520186720388/2.png?ex=67f59ab8&is=67f44938&hm=9a946a57a978b55a9ca755531b68e5d601353038c39f37e92e6b54b31c497a51&=&format=webp&quality=lossless&width=221&height=55"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922519691792496/6.png?ex=67f59ab8&is=67f44938&hm=efeaded48d21aded191c86884cd90390d29934488ab07bb7437b4e399d108106&=&format=webp&quality=lossless&width=221&height=55"></a>
     
 
 
