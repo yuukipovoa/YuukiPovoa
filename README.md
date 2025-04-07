@@ -19,13 +19,13 @@ If you're looking for someone dedicated and skilled in these areas, I'd be happy
 
 **📱 𝐂𝐎𝐍𝐓𝐀𝐂𝐓**  
 
-<a href = "https://yuukipovoa.github.io/infinity.yuuki/"><img src="https://media.discordapp.net/attachments/710219392469958767/1358916532159385610/1.png?ex=67f59524&is=67f443a4&hm=d23e79b39ac87356a2aac1bf5ef2d16863ef9155c4860516256aeff38e8855c4&=&format=webp&quality=lossless&width=199&height=50"></a>
-<a href = "https://www.linkedin.com/in/yuukipovoa/" target="_blank"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358916532603719960/3.png?ex=67f59524&is=67f443a4&hm=e352288e19ac7575add82fe1c288ce7b9f2100d97fcaa827888b18968ebb28de&=&format=webp&quality=lossless&width=199&height=50"></a>
-<a href = "https://www.instagram.com/yuukip_tech/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1358916532813697304/4.png?ex=67f59524&is=67f443a4&hm=720e063fd7f1cb1e38ad632b7192c1356202618bf84069d5161e0fd462093960&=&format=webp&quality=lossless&width=199&height=50"></a>
-<a href = "mailto:yuukimolinapovoa33@gmail.com"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358916532360581191/2.png?ex=67f59524&is=67f443a4&hm=8e86f2b3bd7f6690100ede002f64bb94d0801d01953fec326c143e184c1baa92&=&format=webp&quality=lossless&width=199&height=50"></a>
-<a href = "https://www.infinityforalls.com.br"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358916533052641523/5.png?ex=67f59524&is=67f443a4&hm=9ec980979c3d7c0c782bd887a497f74356cc5f7cd0581be1af9bd1d14ae145d7&=&format=webp&quality=lossless&width=199&height=50"></a>
-
-        
+<a href = "https://yuukipovoa.github.io/infinity.yuuki/"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519910027526/1.png?ex=67f59ab8&is=67f44938&hm=9441706e0f22327a65fb2ef4312cf91553d5188faaffa11eba9530d80eb3e7a9&=&format=webp&quality=lossless&width=221&height=55"></a>
+<a href = "https://www.linkedin.com/in/yuukipovoa/" target="_blank"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922520492769351/3.png?ex=67f59ab8&is=67f44938&hm=0ff53026097318c02474f96b703cf354445f3e5e371afa5af8828c93d288d9c7&=&format=webp&quality=lossless&width=221&height=55"></a>
+<a href = "https://www.instagram.com/yuukip_tech/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519217705080/4.png?ex=67f59ab8&is=67f44938&hm=2a65b6f9276314f456dbaac7bfd338630d75b53ec42e51e0d1f47f3f25499894&=&format=webp&quality=lossless&width=221&height=55"></a>
+<a href = "mailto:yuukimolinapovoa33@gmail.com"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922520186720388/2.png?ex=67f59ab8&is=67f44938&hm=9a946a57a978b55a9ca755531b68e5d601353038c39f37e92e6b54b31c497a51&=&format=webp&quality=lossless&width=221&height=55"></a>
+<a href = "https://www.infinityforalls.com.br"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922519482073108/5.png?ex=67f59ab8&is=67f44938&hm=202b856202563e79146f64a76c7529f6c9a66db38145fc859f3f7965dfbbb982&=&format=webp&quality=lossless&width=221&height=55"></a>
+<a href = "https://www.infinityforalls.com.br"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922519691792496/6.png?ex=67f59ab8&is=67f44938&hm=efeaded48d21aded191c86884cd90390d29934488ab07bb7437b4e399d108106&=&format=webp&quality=lossless&width=221&height=55"></a>
+    
 
 
 
