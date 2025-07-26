@@ -1,6 +1,6 @@
  * * * 
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQEKQ7MMOkClBA/profile-displaybackgroundimage-shrink_350_1400/B4DZYSh4m3H4AY-/0/1744067595257?e=1749686400&v=beta&t=odTydyvYtIU3FG-3aPz1kO-qs7sHW-YCSXR1aSzSwBQ">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQEKQ7MMOkClBA/profile-displaybackgroundimage-shrink_350_1400/B4DZYSh4m3H4AY-/0/1744067595257?e=1756339200&v=beta&t=G8V5Wa_qV722amnBz5mS51fceZ2666_7-9RLAimv2nM">
  
  * * * 
 🚀 Hi! I'm Yuuki Póvoa, 22 years old — an IT Technician, Teacher, Data Analyst, Robotics Specialist, and CEO of Infinity for Alls, a company focused on digital inclusion and access to quality education.
@@ -20,10 +20,10 @@ If you’re interested in exchanging ideas, learning together, or creating somet
 
 **📱 𝐂𝐎𝐍𝐓𝐀𝐂𝐓**  
 
-<a href = "https://yuukipovoa.github.io/infinity.yuuki/"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519910027526/1.png?ex=6821c4f8&is=68207378&hm=235340191059e63dd039de21fd5da3dd3ea6812abbf5ebba6504a50a4d3fd714&=&format=webp&quality=lossless&width=251&height=63"></a> <a href = "https://www.linkedin.com/in/yuukipovoa/" target="_blank"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922520492769351/3.png?ex=6821c4f8&is=68207378&hm=e207c319a4bbcc7fa42d2487635bac7d093b9cb059da26d37166981ca5576972&=&format=webp&quality=lossless&width=251&height=63"></a>
-<a href = "https://www.instagram.com/yuukip_tech/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519217705080/4.png?ex=6821c4f8&is=68207378&hm=f5fc644cf19e85493c6392fcd3c9dc7ea6da904057f8fc671fb1749d7fb84812&=&format=webp&quality=lossless&width=251&height=63"></a>
-<a href = "mailto:yuukimolinapovoa33@gmail.com"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922520186720388/2.png?ex=6821c4f8&is=68207378&hm=d513f11c4ab215479fb9627b3c2c0636a3537cbc358fe719a841b7eeabc14172&=&format=webp&quality=lossless&width=251&height=63"></a>
-<a href = "https://www.infinityforalls.com.br"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922519482073108/5.png?ex=6821c4f8&is=68207378&hm=71bf9d12baff5be1cd3193567b80c22c56921e1eb40cda5cfff4a709a1f0f0c8&=&format=webp&quality=lossless&width=251&height=63"></a>
-<a href = "https://discord.gg/3wtDaRTd6g"> <img src="https://media.discordapp.net/attachments/710219392469958767/1358922519691792496/6.png?ex=6821c4f8&is=68207378&hm=356a0177e048d29089abc33d9d30116377a73bfb184fb92c6633153ccdf801b1&=&format=webp&quality=lossless&width=251&height=63"></a>
+<a href = "https://yuukipovoa.github.io/infinity.yuuki/"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519910027526/1.png?ex=6885f6f8&is=6884a578&hm=c2d38f6f802d9eecec58ed60d54a589d810b57b43a9a2fb70555c6d6bececbbb&=&format=webp&quality=lossless&width=251&height=63"></a> 
+<a href = "https://www.linkedin.com/in/yuukipovoa/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922520492769351/3.png?ex=6885f6f8&is=6884a578&hm=47e955ab83fde8735e727207a1c4a6cb534fb963c4b577a34d844736bf762abf&=&format=webp&quality=lossless&width=251&height=63"></a>
+<a href = "https://www.instagram.com/yuukip_tech/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519217705080/4.png?ex=6885f6f8&is=6884a578&hm=c291476f7ccc8a3d76cd21f27dfdfba539a11b9f9a617f0fa575788bd25a21f7&=&format=webp&quality=lossless&width=251&height=63"></a>
+<a href = "mailto:yuukimolinapovoa33@gmail.com"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922520186720388/2.png?ex=6885f6f8&is=6884a578&hm=f5a0107113a2f4eea4babb24989f6ef8467c2f151fc5acff07704a7aa1823da4&=&format=webp&quality=lossless&width=251&height=63"></a>
+<a href = "https://www.infinityforalls.com.br"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519482073108/5.png?ex=6885f6f8&is=6884a578&hm=1d363b0fc18bb6229d81cea48b4f0f24c4d9df2e42bcbb7a6c636d8b2574d735&=&format=webp&quality=lossless&width=251&height=63"></a>
  
  * * *
