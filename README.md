@@ -9,10 +9,6 @@
 
 🎓 My passion for teaching began when I volunteered as a music teacher for young people. Since then, combining technology and education has become my mission. Today, I teach computer science and tech skills to people of all ages — always in a practical, accessible, and transformative way.
 
-👨‍🏫 Through Infinity for Alls (IFA), I created a space where I teach school support, basic computing, and professional IT training for children, youth, adults, and seniors — believing that it’s never too early or too late to learn. My team and I work day and night to deliver the best education to our nation. We want to transform lives through quality education and are always striving to reach new goals in the pursuit of knowledge.
-
-🌐 I believe technology should be for everyone. And with education and dedication, we can build a more fair, connected, and opportunity-filled future.
-
 If you’re interested in exchanging ideas, learning together, or creating something meaningful, I’d love to connect with you!
 
 💡 Let’s grow together? Next level, activate!
