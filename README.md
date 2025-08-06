@@ -20,6 +20,6 @@ If you’re interested in exchanging ideas, learning together, or creating somet
 <a href = "https://www.linkedin.com/in/yuukipovoa/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922520492769351/3.png?ex=6885f6f8&is=6884a578&hm=47e955ab83fde8735e727207a1c4a6cb534fb963c4b577a34d844736bf762abf&=&format=webp&quality=lossless&width=251&height=63"></a>
 <a href = "https://www.instagram.com/yuukip_tech/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519217705080/4.png?ex=68947778&is=689325f8&hm=4197e673e76ae23c63ba719fb72242f844b198930b403f29531ff7c7f6708b0b&=&format=webp&quality=lossless&width=226&height=56"></a>
 <a href = "mailto:yuukimolinapovoa33@gmail.com"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922520186720388/2.png?ex=6885f6f8&is=6884a578&hm=f5a0107113a2f4eea4babb24989f6ef8467c2f151fc5acff07704a7aa1823da4&=&format=webp&quality=lossless&width=251&height=63"></a>
-<a href = "https://www.infinityforalls.com.br"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519482073108/5.png?ex=68947778&is=689325f8&hm=8c29cc1f10cce9a7b00c52972962612840843955470ce8e0c73f8b8d7cbc8283&=&format=webp&quality=lossless&width=226&height=56"></a>
+
  
  * * *
