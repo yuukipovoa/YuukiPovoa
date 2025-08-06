@@ -14,7 +14,7 @@ If you’re interested in exchanging ideas, learning together, or creating somet
 💡 Let’s grow together? Next level, activate!
  * * * 
 
-**📱 𝐂𝐎𝐍𝐓𝐀𝐂𝐓**  
+**📱 CONTATO**  
 
 <a href = "https://yuukipovoa.github.io/infinity.yuuki/"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519910027526/1.png?ex=6885f6f8&is=6884a578&hm=c2d38f6f802d9eecec58ed60d54a589d810b57b43a9a2fb70555c6d6bececbbb&=&format=webp&quality=lossless&width=251&height=63"></a> 
 <a href = "https://www.linkedin.com/in/yuukipovoa/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922520492769351/3.png?ex=6885f6f8&is=6884a578&hm=47e955ab83fde8735e727207a1c4a6cb534fb963c4b577a34d844736bf762abf&=&format=webp&quality=lossless&width=251&height=63"></a>
