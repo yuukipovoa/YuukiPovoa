@@ -3,7 +3,7 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQFIjCmDzYVoZA/profile-displaybackgroundimage-shrink_350_1400/B4DZiBJi4sHwAY-/0/1754513420664?e=1757548800&v=beta&t=VSIPBjljM09d0Tt1GJdtGzL8ry2rOJRqKbyvKKgmJQs">
  
  * * * 
-🚀 Hi! I'm Yuuki Póvoa, 22 years old — an IT Technician, Teacher, Data Analyst, Robotics Specialist, and CEO of Infinity for Alls, a company focused on digital inclusion and access to quality education.
+🚀 Hi! I'm Yuuki Póvoa, 22 years old an IT Technician, Teacher, Data Analyst, Robotics Specialist, and CEO of Infinity for Alls, a company focused on digital inclusion and access to quality education.
 
 💻 I work with hardware and software maintenance and support, full stack programming, data analysis, robotics, and technical assistance. I have experience with computers, laptops, smartphones, servers, and various systems. I love studying and I’m always looking to learn something new to apply in my daily work and ongoing projects.
 
