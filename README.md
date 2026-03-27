@@ -1,8 +1,4 @@
- * * * 
 
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFIjCmDzYVoZA/profile-displaybackgroundimage-shrink_350_1400/B4DZiBJi4sHwAY-/0/1754513420664?e=1757548800&v=beta&t=VSIPBjljM09d0Tt1GJdtGzL8ry2rOJRqKbyvKKgmJQs">
- 
- * * * 
 🚀 Hi! I'm Yuuki Póvoa, 22 years old an IT Technician, Teacher, Data Analyst, Robotics Specialist, and CEO of Infinity for Alls, a company focused on digital inclusion and access to quality education.
 
 💻 I work with hardware and software maintenance and support, full stack programming, data analysis, robotics, and technical assistance. I have experience with computers, laptops, smartphones, servers, and various systems. I love studying and I’m always looking to learn something new to apply in my daily work and ongoing projects.
@@ -12,14 +8,4 @@
 If you’re interested in exchanging ideas, learning together, or creating something meaningful, I’d love to connect with you!
 
 💡 Let’s grow together? Next level, activate!
- * * * 
 
-**📱 CONTATO**  
-
-<a href = "https://yuukipovoa.github.io/infinity.yuuki/"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519910027526/1.png?ex=689e5ab8&is=689d0938&hm=9b33f6f42249b9ba327439d9238250fd0b8f6f848e5414bceb3520b227a12cb4&=&format=webp&quality=lossless&width=302&height=75"></a> 
-<a href = "https://www.linkedin.com/in/yuukipovoa/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922520492769351/3.png?ex=689e5ab8&is=689d0938&hm=4c13dac94de143d95bdd1603f136f3dcf809c97f598be8a389f2b28a12685bef&=&format=webp&quality=lossless&width=302&height=75"></a>
-<a href = "https://www.instagram.com/yuukip_tech/" target="_blank"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922519217705080/4.png?ex=68947778&is=689325f8&hm=4197e673e76ae23c63ba719fb72242f844b198930b403f29531ff7c7f6708b0b&=&format=webp&quality=lossless&width=226&height=56"></a>
-<a href = "mailto:yuukimolinapovoa33@gmail.com"><img src="https://media.discordapp.net/attachments/710219392469958767/1358922520186720388/2.png?ex=689e5ab8&is=689d0938&hm=6a6a685b392ea688696b93984e157c270901640bad818e5d1bc4a0f8c4b08df9&=&format=webp&quality=lossless&width=302&height=75"></a>
-
- 
- * * *
