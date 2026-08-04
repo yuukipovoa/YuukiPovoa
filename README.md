@@ -1,13 +1,65 @@
-imag.(<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/fffdf290-68a6-4077-9541-9ce5ff85f350" />)
+# <img width="1400" height="350" alt="Banner" src="https://github.com/user-attachments/assets/fffdf290-68a6-4077-9541-9ce5ff85f350" />
 
+# 👋 Hi, I'm **Yuuki Póvoa**
 
-🚀 Hi! I'm Yuuki Póvoa, 23 years old an IT Technician, Teacher, Data Analyst, Robotics Specialist, and CEO of Infinity for Alls, a company focused on digital inclusion and access to quality education.
+### IT Technician • Teacher • Data Analyst • Robotics Specialist • CEO @ Infinity for Alls
 
-💻 I work with hardware and software maintenance and support, full stack programming, data analysis, robotics, and technical assistance. I have experience with computers, laptops, smartphones, servers, and various systems. I love studying and I’m always looking to learn something new to apply in my daily work and ongoing projects.
+---
 
-🎓 My passion for teaching began when I volunteered as a music teacher for young people. Since then, combining technology and education has become my mission. Today, I teach computer science and tech skills to people of all ages — always in a practical, accessible, and transformative way.
+## 🚀 About Me
 
-If you’re interested in exchanging ideas, learning together, or creating something meaningful, I’d love to connect with you!
+I'm **23 years old** and passionate about technology, education, and innovation.
 
-💡 Let’s grow together? Next level, activate!
+As the founder and CEO of **Infinity for Alls**, my mission is to make technology and quality education accessible to everyone through digital inclusion and practical learning.
 
+I enjoy solving problems, building solutions, and sharing knowledge that creates real impact.
+
+---
+
+## 💻 What I Do
+
+* 🖥️ IT Support & Technical Assistance
+* ⚙️ Hardware & Software Maintenance
+* 🌐 Full Stack Development
+* 📊 Data Analysis
+* 🤖 Robotics Projects
+* 🖧 Server Administration
+* 📱 Smartphone & Computer Repair
+* 🎓 Technology Education
+
+---
+
+## ❤️ Passion for Teaching
+
+My journey as an educator started as a volunteer music teacher.
+
+Today, I combine **technology + education** to help people of all ages develop digital skills through practical, accessible, and engaging learning experiences.
+
+Teaching isn't just part of my career—it's part of my purpose.
+
+---
+
+## 🌱 Currently Learning
+
+* Artificial Intelligence
+* Cloud Computing
+* Cybersecurity
+* Data Engineering
+* Automation
+* Modern Web Technologies
+
+---
+
+## 💡 My Philosophy
+
+> **"Technology only changes the world when knowledge reaches everyone."**
+
+---
+
+## 🤝 Let's Connect
+
+If you're interested in technology, education, robotics, programming, or simply exchanging ideas, feel free to connect.
+
+Let's build something meaningful together.
+
+**Next Level, Activate! 🚀**
