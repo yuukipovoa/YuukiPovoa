@@ -1,3 +1,5 @@
+imag.(<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/fffdf290-68a6-4077-9541-9ce5ff85f350" />)
+
 
 🚀 Hi! I'm Yuuki Póvoa, 23 years old an IT Technician, Teacher, Data Analyst, Robotics Specialist, and CEO of Infinity for Alls, a company focused on digital inclusion and access to quality education.
 
