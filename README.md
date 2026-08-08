@@ -1,208 +1,71 @@
-<img width="1400" height="350" src="https://github.com/user-attachments/assets/fffdf290-68a6-4077-9541-9ce5ff85f350"/>
-
-<h1 align="center">
-Hi 👋, I'm <strong>Yuuki Póvoa</strong>
-</h1>
-
-<h3 align="center">
-💻 IT Technician • 👨‍🏫 Teacher • 📊 Data Analyst • 🤖 Robotics Specialist • 🚀 CEO of Infinity for Alls
-</h3>
+# 👋 Hi, I'm Yuuki Póvoa
 
 <p align="center">
+ <img width="1400" height="350" src="https://github.com/user-attachments/assets/fffdf290-68a6-4077-9541-9ce5ff85f350"/>
+</p>
 
-<a href="https://instagram.com/SEUUSUARIO">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 
-<a href="https://linkedin.com/in/SEUUSUARIO">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://SEUSITE.com.br">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
-
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<p style="display: flex; space-between: space-evenly; width: 100%;">
+  <a href="SEU_LINK">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  width="247" height="47">
+  </a>
+  <a href="SEU_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="247" height="47">
+  </a>
+  <a href="SEU_LINK">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" width="247" height="47">
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="247" height="47">
+  </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-💡 Passionate about Technology, Education and Innovation.
+I am an IT professional focused on Field Service, Network Infrastructure, IT Support, and Full Stack Development. I have experience in data analysis, technical support, maintenance and repair of equipment such as computers, laptops, and smartphones, web programming, as well as administration and technology.
 
-Founder & CEO of **Infinity for Alls**, working to bring Digital Inclusion and Quality Education to everyone.
+My journey in technology began in 2016 at Fundação Bradesco, where I started my studies in computer science. In 2019, I joined JUCO, where I gained experience in administration and the job market, while also working as a volunteer music teacher.
 
-I specialize in technical support, software development, robotics, data analysis and infrastructure.
+In 2020, I worked as a school intern at Instituto IPMO, in the protocol department, assisting with the organization and processing of administrative documents. In 2021, I participated in the technology training program at Instituto PROA, where I developed skills in programming and career planning.
 
-Always learning.
-Always building.
-Always teaching.
+During the same period, I worked as an Espro Young Apprentice, outsourced to Isaac, where I participated in activities involving CSS and data analysis. I also gained experience at Grupo Casas Bahia, working in the Pricing department with data analysis.
 
----
+In addition to my professional experience, I work independently as an IT instructor, providing private lessons to young people, adults, and seniors, helping them develop their digital skills. I also work as a hardware and software technician, providing maintenance, configuration, troubleshooting, and technical support for technology equipment.
 
-# 💻 Tech Stack
+🎓 I hold a degree in Systems Analysis and Development from Faculdade Descomplica.
 
-### Programming Languages
+💡 I am highly interested in IT infrastructure, technical support, networking, data, and software development, always seeking to learn new technologies and grow professionally.
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=cs"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
+🤝 If you enjoyed my profile, feel free to connect with me. I am always open to exchanging knowledge, exploring opportunities, collaborating on projects, and building new professional connections.
 
 ---
 
-## ⚙️ Frameworks & Tools
+## 💻 Languages I Work With
 
-<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=windows"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="./output/pacman.svg" alt="Pac-Man Contribution Graph">
 </p>
 
----
 
-# 🔥 Contribution Streak
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEUUSUARIO&theme=tokyonight&column=7&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 🤖 What I Do
-
-✅ IT Support
-
-✅ Hardware Maintenance
-
-✅ Software Development
-
-✅ Data Analysis
-
-✅ Robotics
-
-✅ Servers
-
-✅ Computer Networks
-
-✅ Technical Education
-
----
-
-# 🌱 Currently Learning
-
-- Artificial Intelligence
-- Cloud Computing
-- Cybersecurity
-- Data Engineering
-- Machine Learning
-- DevOps
-
----
-
-# 💡 Philosophy
-
-> *Technology only changes the world when knowledge reaches everyone.*
-
----
-
-# 👀 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-<h2 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h2>
-
-<h3 align="center">
-🚀 Next Level, Activate!
-</h3>
