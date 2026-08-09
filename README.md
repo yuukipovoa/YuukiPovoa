@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yuuki Póvoa
+# 👋 Hi, I'm Yuuki Povoa
 
 <p align="center">
  <img width="1400" height="350" src="https://github.com/user-attachments/assets/fffdf290-68a6-4077-9541-9ce5ff85f350"/>
@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="https://www.instagram.com/yuuki.povoa">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
+    <img src="https://media.discordapp.net/attachments/710219392469958767/1535807927582203934/4.png?ex=6a791c17&is=6a77ca97&hm=50d687bc42c445deba502e066af6f5a6ee3f4b4f0c3ed44b39389ae4b77d4a1f&=&format=webp&quality=lossless" >
   </a>
   <a href="https://www.linkedin.com/in/yuukipovoa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" >
+    <img src="https://media.discordapp.net/attachments/710219392469958767/1535807927238139964/3.png?ex=6a791c17&is=6a77ca97&hm=3c9912b75a29946da3416ae6c8e0cb00e3bbe314018d83896dbbf3e2b39a8d63&=&format=webp&quality=lossless" >
   </a>
   <a href="https://yuukipovoa.github.io/infinity.yuuki">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+    <img src="https://media.discordapp.net/attachments/710219392469958767/1535806599204052992/1.png?ex=6a791adb&is=6a77c95b&hm=e16f95a044a9307f3a736484815c2f46579ef50a6e5d6cb1ec70c74efcc8403b&=&format=webp&quality=lossless">
   </a>
   <a href="https://yuukimolinapovoa33@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://media.discordapp.net/attachments/710219392469958767/1535807926932082758/2.png?ex=6a791c17&is=6a77ca97&hm=f8e79c1a7a6441c6190c1fe721956e56df330dfbd36158287d4217910c2bfad1&=&format=webp&quality=lossless">
   </a>
 </p>
 
