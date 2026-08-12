@@ -7,16 +7,16 @@
 
 <p align="center">
   <a href="https://www.instagram.com/yuuki.povoa">
-    <img src="https://media.discordapp.net/attachments/710219392469958767/1535807927582203934/4.png?ex=6a791c17&is=6a77ca97&hm=50d687bc42c445deba502e066af6f5a6ee3f4b4f0c3ed44b39389ae4b77d4a1f&=&format=webp&quality=lossless" >
+    <img src="https://media.discordapp.net/attachments/710219392469958767/1535807927582203934/4.png?ex=6a7db957&is=6a7c67d7&hm=aa3e9fce69267c3dc5d18e59d1d3d395fe18aeac1e415f8ae591b2bab17357f4&=&format=webp&quality=lossless" >
   </a>
   <a href="https://www.linkedin.com/in/yuukipovoa">
-    <img src="https://media.discordapp.net/attachments/710219392469958767/1535807927238139964/3.png?ex=6a791c17&is=6a77ca97&hm=3c9912b75a29946da3416ae6c8e0cb00e3bbe314018d83896dbbf3e2b39a8d63&=&format=webp&quality=lossless" >
+    <img src="https://media.discordapp.net/attachments/710219392469958767/1535807927238139964/3.png?ex=6a7db957&is=6a7c67d7&hm=d0cd9f7236f607852c8510db718b5c5da584c0a09d42aa31f2c3ba28df72ddd1&=&format=webp&quality=lossless" >
   </a>
   <a href="https://yuukipovoa.github.io/infinity.yuuki">
-    <img src="https://media.discordapp.net/attachments/710219392469958767/1535806599204052992/1.png?ex=6a791adb&is=6a77c95b&hm=e16f95a044a9307f3a736484815c2f46579ef50a6e5d6cb1ec70c74efcc8403b&=&format=webp&quality=lossless">
+    <img src="https://media.discordapp.net/attachments/710219392469958767/1535806599204052992/1.png?ex=6a7db81b&is=6a7c669b&hm=ba9394478756f2981e5c0824d370a0340108b8b00415b26d85ba6a30c571a6b7&=&format=webp&quality=lossless">
   </a>
   <a href="https://yuukimolinapovoa33@gmail.com">
-    <img src="https://media.discordapp.net/attachments/710219392469958767/1535807926932082758/2.png?ex=6a791c17&is=6a77ca97&hm=f8e79c1a7a6441c6190c1fe721956e56df330dfbd36158287d4217910c2bfad1&=&format=webp&quality=lossless">
+    <img src="https://media.discordapp.net/attachments/710219392469958767/1535807926932082758/2.png?ex=6a7db957&is=6a7c67d7&hm=c62bafd57c9dfc7ae021ca7e1266881a82cbd7b22997a25fa03c7fc221b84b71&=&format=webp&quality=lossless">
   </a>
 </p>
 
